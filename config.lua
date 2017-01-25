@@ -1,0 +1,9 @@
+bot_token = "280289915:AAFtkQrjGTE2oSkwiv0OPkUGsZwOenGnwXw"
+send_api = "https://api.telegram.org/bot"..bot_token
+bot_version = "6.0"
+sudo_name = "Engineer morteza"
+sudo_id = 191128096
+admingp = -191128096
+sudo_num = "989378284718"
+sudo_user = "m_wooolf"
+sudo_ch = "wolf_bottt"
